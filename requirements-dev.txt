@@ -61,3 +61,4 @@ types-requests-oauthlib>=2.0.0.20250119
 types-setuptools>=68
 types-simplejson>=3.17.7.2
 types-unidiff
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
